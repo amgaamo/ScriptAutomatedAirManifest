@@ -511,7 +511,7 @@
           "__value": {
             "Runtime ID": "6f51364c-d07b-457b-8577-46f917c776bb",
             "Description": "Comment: Case Add data VSED from Datasource",
-            "CustomDescription": "Comment: Case Add data VSED from Datasource",
+            "CustomDescription": "Comment: Case Add data VSED from Datasource to Send",
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CommentActionDescriptor",
               "__value": {
